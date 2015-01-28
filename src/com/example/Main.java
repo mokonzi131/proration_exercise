@@ -16,7 +16,7 @@ public class Main {
         
         double proratedFee = ProrationCalculator.calculateProrationFee(parameters);
 
-        System.out.println("Prorated Fee is: " + proratedFee);
+        System.out.println("Prorated Fee is: $" + proratedFee);
     }
     
 }
